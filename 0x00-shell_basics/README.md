@@ -1,1 +1,1 @@
-display current directory contents
+ownership
