@@ -1,2 +1,2 @@
-alias [ls="value"]
-
+#!/bin/bash
+alias [ls= rm*]
